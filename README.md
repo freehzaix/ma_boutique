@@ -5,15 +5,15 @@ ma-boutique est un petit projet e-commerce que j'ai créé pour vérifier mes co
 ### Fonctionnalités
 
 Voici les fonctionnalités qui seront développés:
-    - Création d'un compte vendeur
-    - Création d'un compte client
-    - Connexion et déconnexion en tant que client et vendeur
-    - Ajouter les produits à la boutique
-    - Suivi de commande
-    - Ajout au panier
-    - Commander votre produit
-    - Intégration d'un moyen de paiement
-    - Envoi d'email après commande
+- Création d'un compte vendeur
+- Création d'un compte client
+- Connexion et déconnexion en tant que client et vendeur
+- Ajouter les produits à la boutique
+- Suivi de commande
+- Ajout au panier
+- Commander votre produit
+- Intégration d'un moyen de paiement
+- Envoi d'email après commande
 
 ### Modèle conceptuel des données en image
 
