@@ -17,7 +17,7 @@ Voici les fonctionnalités qui seront développés:
 
 ### Modèle conceptuel des données en image
 
-![Modèle Conceptuel des Données](public/capture.png)
+![Modèle Conceptuel des Données](./public/capture.jpg)
 
 Voici les entités pris en compte:
 - Catégorie
