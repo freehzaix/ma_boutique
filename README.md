@@ -26,3 +26,5 @@ Voici les entités pris en compte:
 - Image
 - Moyen_Paiement
 - Client
+
+### Auteur: Jean-Luc DOH (https://jeanluc.freehzaix.com)
